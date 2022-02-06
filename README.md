@@ -1,1 +1,1 @@
-[![Alexito2060 status](https://github-readme-stats.vercel.app/api?username=alexito2060)]
+https://github-readme-stats.vercel.app/api?username=Alexito2060&show_icons=true&theme=radical
